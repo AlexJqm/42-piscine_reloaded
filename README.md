@@ -1,6 +1,6 @@
-Alexandre Jacquemin
+![42 Logo](http://image.noelshack.com/fichiers/2018/50/2/1544493599-42-1.png)  
 
-**Piscine Reloaded - 15 hours**  
+# Piscine Reloaded - 15 hours  
 Piscine Reloaded. Revoyez les bases de la piscine avec une suite d'exercices tirée des sujets de celle-ci.
 
 ----
